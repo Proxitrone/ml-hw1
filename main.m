@@ -4,8 +4,5 @@
 % LSE and Newton's method
 
 
-
-%load testcase.txt
-
-linear_regression('testcase.txt', 2, 1/2);
+linear_regression('testcase.txt', 2, 0);
 
